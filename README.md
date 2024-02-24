@@ -43,10 +43,6 @@ This script serves as a system administration tool for managing users, groups, f
    - Changing the priority of running processes.
    - Killing processes.
    - Displaying process status.
-
-5. **Miscellaneous**:
-   - Providing instructions and warnings within the script for proper usage.
-   - Offering options to return to previous menus or exit the script gracefully.
   
 
 
