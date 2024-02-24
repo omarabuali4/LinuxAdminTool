@@ -55,5 +55,5 @@ This script serves as a system administration tool for managing users, groups, f
 
 ```
 1. Install the script
-2. run ./LinuxAdminTool
+2. run sudo ./LinuxAdminTool
 ```
